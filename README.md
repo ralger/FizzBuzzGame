@@ -1,6 +1,6 @@
 # Fizz Buzz Game
 
-####Note on appropriate level of problem abstraction 
+#### Note on appropriate level of problem abstraction 
 Choosing the appropriate level of generalisation and abstraction to apply to a development problem is not always clear cut.
 A few things that should be considered:
 
